@@ -1,0 +1,20 @@
+# Aliases
+
+# LS
+alias ll='ls -lah'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Grep
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+
+# Git
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
+alias gm='git merge'
+alias gd='git diff'
+alias gl='git log --oneline --graph'
